@@ -36,6 +36,7 @@ python main.py
 - `GET /rides/available` - Get available rides (drivers only)
 - `POST /rides/{ride_id}/accept` - Accept a ride (drivers only)
 - `GET /rides/my-rides` - Get user's rides
+- `POST /rides/{ride_id}/complete` Mark ide completed
 
 ## Usage
 
